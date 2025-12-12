@@ -25,6 +25,10 @@ Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "object_oriented_programming
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "data_handling", "data_handling\data_handling.pyproj", "{127FE822-1965-40EA-A54F-C1CD53FE966C}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Challenge", "Challenge", "{60692A89-A660-44C1-91EF-EE82AB2C1003}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "challenge", "challenge\challenge.pyproj", "{46A4C33E-DEFD-4C4C-913E-C96FAFF2CCFC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -47,6 +51,8 @@ Global
 		{E61E0A20-BC81-4D7F-B1E8-1039737E2C4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{127FE822-1965-40EA-A54F-C1CD53FE966C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{127FE822-1965-40EA-A54F-C1CD53FE966C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46A4C33E-DEFD-4C4C-913E-C96FAFF2CCFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46A4C33E-DEFD-4C4C-913E-C96FAFF2CCFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -62,6 +68,8 @@ Global
 		{2ED80F73-FE4A-4F5A-80CC-1C215258E5C1} = {9F8A2BE5-E0E4-4696-BF73-F8F6B7BF1BF2}
 		{E61E0A20-BC81-4D7F-B1E8-1039737E2C4C} = {9F8A2BE5-E0E4-4696-BF73-F8F6B7BF1BF2}
 		{127FE822-1965-40EA-A54F-C1CD53FE966C} = {9F8A2BE5-E0E4-4696-BF73-F8F6B7BF1BF2}
+		{60692A89-A660-44C1-91EF-EE82AB2C1003} = {9F8A2BE5-E0E4-4696-BF73-F8F6B7BF1BF2}
+		{46A4C33E-DEFD-4C4C-913E-C96FAFF2CCFC} = {60692A89-A660-44C1-91EF-EE82AB2C1003}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {87CB2AC4-667E-4710-9DDA-38374AD3DC41}

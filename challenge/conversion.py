@@ -1,0 +1,11 @@
+
+print("Enter the number of ounces to convert:")
+
+ounces = int(input())
+
+tons, remainder = divmod(ounces,32000)
+pounds, ounces = divmod(remainder,16)
+
+print(f"Tons: {tons}")
+print(f"Pounds: {pounds}")
+print(f"Ounces: {ounces}")
