@@ -2,15 +2,15 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>2ed80f73-fe4a-4f5a-80cc-1c215258e5c1</ProjectGuid>
+    <ProjectGuid>127fe822-1965-40ea-a54f-c1cd53fe966c</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>dictionaries_2.py</StartupFile>
+    <StartupFile>text_handling\txt.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
     <OutputPath>.</OutputPath>
-    <Name>data_structures</Name>
-    <RootNamespace>data_structures</RootNamespace>
+    <Name>data_handling</Name>
+    <RootNamespace>data_handling</RootNamespace>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
     <DebugSymbols>true</DebugSymbols>
@@ -21,11 +21,18 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="dictionaries_1.py" />
-    <Compile Include="dictionaries_2.py" />
-    <Compile Include="lists.py" />
-    <Compile Include="sets.py" />
-    <Compile Include="tuples.py" />
+    <Folder Include="csv_handling\" />
+    <Folder Include="csv_handling\data\" />
+    <Folder Include="text_handling\" />
+    <Folder Include="text_handling\data\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="csv_handling\example.py" />
+    <Compile Include="text_handling\txt.py" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="csv_handling\data\animals.csv" />
+    <Content Include="text_handling\data\names.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in

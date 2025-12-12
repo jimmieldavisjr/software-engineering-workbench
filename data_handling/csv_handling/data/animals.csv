@@ -1,0 +1,31 @@
+ID,Common Name,Scientific Name,Class,Habitat,Primary Diet,Region,Conservation Status,Avg Lifespan (years),Avg Weight (kg),Notes
+1,Red Fox,Vulpes vulpes,Mammalia,Tropical rainforest,Carnivore,Asia,Near Threatened,36,5.4,Migratory patterns observed
+2,Bald Eagle,Haliaeetus leucocephalus,Aves,Mountainous regions,Carnivore,Antarctica,Least Concern,6,3.28,Solitary except during breeding
+3,Green Sea Turtle,Chelonia mydas,Reptilia,Mountainous regions,Insectivore,North America,Critically Endangered,18,163.08,Requires pristine habitat
+4,African Elephant,Loxodonta africana,Mammalia,Savanna,Piscivore,Asia,Least Concern,28,4792.56,Adaptable to human presence
+5,Snow Leopard,Panthera uncia,Mammalia,Arctic tundra,Herbivore,Africa,Vulnerable,21,25.06,Migratory patterns observed
+6,Giant Panda,Ailuropoda melanoleuca,Mammalia,Coastal waters,Omnivore,Asia,Least Concern,66,118.26,Requires pristine habitat
+7,Koala,Phascolarctos cinereus,Mammalia,Tropical rainforest,Insectivore,Asia,Critically Endangered,54,10.35,Migratory patterns observed
+8,King Cobra,Ophiophagus hannah,Reptilia,Temperate forest,Herbivore,Asia,Least Concern,60,6.7,Migratory patterns observed
+9,Emperor Penguin,Aptenodytes forsteri,Aves,Open ocean,Piscivore,Asia,Endangered,28,25.74,Adaptable to human presence
+10,Blue Whale,Balaenoptera musculus,Mammalia,Savanna,Piscivore,Asia,Least Concern,29,117389.79,Solitary except during breeding
+11,Meerkat,Suricata suricatta,Mammalia,Desert,Piscivore,Antarctica,Vulnerable,79,0.69,Adaptable to human presence
+12,Arctic Tern,Sterna paradisaea,Aves,Temperate forest,Herbivore,North America,Vulnerable,30,0.09,Solitary except during breeding
+13,Bengal Tiger,Panthera tigris tigris,Mammalia,Grasslands,Omnivore,Africa,Endangered,58,241.55,Population stable in protected areas
+14,Komodo Dragon,Varanus komodoensis,Reptilia,Desert,Omnivore,Europe,Near Threatened,53,62.45,Highly territorial
+15,Golden Lion Tamarin,Leontopithecus rosalia,Mammalia,Grasslands,Piscivore,Antarctica,Vulnerable,36,0.9,Social in small groups
+16,Capybara,Hydrochoerus hydrochaeris,Mammalia,Mountainous regions,Piscivore,South America,Least Concern,22,40.35,Social in small groups
+17,Quokka,Setonix brachyurus,Mammalia,Open ocean,Insectivore,South America,Endangered,56,3.99,Population stable in protected areas
+18,Great Horned Owl,Bubo virginianus,Aves,Mountainous regions,Piscivore,Asia,Critically Endangered,5,2.02,Migratory patterns observed
+19,Humpback Whale,Megaptera novaeangliae,Mammalia,Mountainous regions,Piscivore,Asia,Vulnerable,22,29402.5,Social in small groups
+20,Sandhill Crane,Antigone canadensis,Aves,Wetlands,Carnivore,Asia,Critically Endangered,16,4.02,Migratory patterns observed
+21,Caracal,Caracal caracal,Mammalia,Arctic tundra,Insectivore,Africa,Near Threatened,55,16.39,Nocturnal activity
+22,Fennec Fox,Vulpes zerda,Mammalia,Grasslands,Omnivore,Pacific Ocean,Least Concern,22,1.81,Highly territorial
+23,Nile Crocodile,Crocodylus niloticus,Reptilia,Savanna,Carnivore,Africa,Critically Endangered,11,128.24,Population stable in protected areas
+24,Hammerhead Shark,Sphyrna mokarran,Pisces,Tropical rainforest,Piscivore,Europe,Near Threatened,45,367.83,Social in small groups
+25,Orangutan,Pongo abelii,Mammalia,Arctic tundra,Insectivore,Antarctica,Near Threatened,77,75.32,Solitary except during breeding
+26,Mountain Gorilla,Gorilla beringei beringei,Mammalia,Arctic tundra,Piscivore,Australia,Endangered,74,137.72,Solitary except during breeding
+27,Cheetah,Acinonyx jubatus,Mammalia,Savanna,Carnivore,Australia,Least Concern,78,32.74,Solitary except during breeding
+28,Sea Otter,Enhydra lutris,Mammalia,Temperate forest,Carnivore,North America,Near Threatened,16,42.07,Adaptable to human presence
+29,Platypus,Ornithorhynchus anatinus,Mammalia,Tropical rainforest,Insectivore,Africa,Vulnerable,70,1.09,Social in small groups
+30,Wolverine,Gulo gulo,Mammalia,Grasslands,Insectivore,Pacific Ocean,Near Threatened,68,17.07,Solitary except during breeding
