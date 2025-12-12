@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>2ed80f73-fe4a-4f5a-80cc-1c215258e5c1</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>dictionaries_2.py</StartupFile>
+    <StartupFile>Tuples\tuple_2.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -21,11 +21,21 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="dictionaries_1.py" />
-    <Compile Include="dictionaries_2.py" />
-    <Compile Include="lists.py" />
-    <Compile Include="sets.py" />
-    <Compile Include="tuples.py" />
+    <Compile Include="Dictionaries\dictionaries_1.py" />
+    <Compile Include="Dictionaries\dictionaries_2.py" />
+    <Compile Include="Lists\lists.py" />
+    <Compile Include="Sets\sets.py" />
+    <Compile Include="Tuples\tuple_1.py" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Dictionaries\" />
+    <Folder Include="Lists\" />
+    <Folder Include="Tuples\" />
+    <Folder Include="Sets\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Tuples\tuple.md" />
+    <Content Include="Tuples\tuple_2.py" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
