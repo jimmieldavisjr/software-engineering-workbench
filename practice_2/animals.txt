@@ -1,0 +1,4 @@
+dog cat bird
+lion tiger bear
+elephant giraffe zebra
+zebra giraffe elephant bear tiger lion bird cat dog

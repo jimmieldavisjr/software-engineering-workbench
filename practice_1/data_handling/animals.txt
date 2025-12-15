@@ -1,0 +1,6 @@
+Lions are carnivotes
+Rabbits are herbviors
+Bears are omnivores
+Eagles are carnivores
+Horses are herbivores
+Cows are herbivores
